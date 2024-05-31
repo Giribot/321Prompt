@@ -1,5 +1,5 @@
 # 321Prompt
-A php script to generate prompts for A1111. (stable diffusion)
+"321prompt.php" is a php script to generate prompts for A1111. (stable diffusion)
 This involves creating a prompt text file with incremented weights to put in the A1111 interface: "Script/Prompts from file or textbox".
 
 the PHP script works on a classic web server and I tried to make an extension for A1111 but one thing escapes me (it's buggy).
