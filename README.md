@@ -30,7 +30,8 @@ Look at the screenshot (321prompt.png) for understand how to play with this scri
 
 Bye !
 
-
+Demo here: [https://lostcantina.com/test7.php](https://lostcantina.com/321prompt.php)
+(sorry, i'm french !)
 
 
 
