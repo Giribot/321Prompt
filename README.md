@@ -8,13 +8,21 @@ Do with it what you want!
 You will be able to generate a prompt text of this type in 3-4 clicks:
 
 a [cat: dog:0] in the garden , it's [Rainy: sunny: 1 ] Outside
+
 a [cat: dog:0.125] in the garden , it's [Rainy: sunny: 0.875 ] Outside
+
 a [cat: dog:0.25] in the garden , it's [Rainy: sunny: 0.75 ] Outside
+
 a [cat: dog:0.375] in the garden , it's [Rainy: sunny: 0.625 ] Outside
+
 a [cat: dog:0.5] in the garden , it's [Rainy: sunny: 0.5 ] Outside
+
 a [cat: dog:0.625] in the garden , it's [Rainy: sunny: 0.375 ] Outside
+
 a [cat: dog:0.75] in the garden , it's [Rainy: sunny: 0.25 ] Outside
+
 a [cat: dog:0.875] in the garden , it's [Rainy: sunny: 0.125 ] Outside
+
 a [cat: dog:1] in the garden , it's [Rainy: sunny: 0 ] Outside
 
 
