@@ -25,6 +25,7 @@ a [cat: dog:0.875] in the garden , it's [Rainy: sunny: 0.125 ] Outside
 
 a [cat: dog:1] in the garden , it's [Rainy: sunny: 0 ] Outside
 
+321prompt.png
 
 Look at the screenshot for understand how to play with this script !
 
