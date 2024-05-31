@@ -28,9 +28,9 @@ a [cat: dog:1] in the garden , it's [Rainy: sunny: 0 ] Outside
 
 Look at the screenshot (321prompt.png) for understand how to play with this script !
 
-It's work with one sentence (sentence 1, you you do not have to fulfill sentence 2 !)
-But you can fullfill sentence 1 + sentence 2 for more fun !
-And you can increase or decrease the weight.
+It's work with one sentence (sentence 1, and you do not have to fulfill sentence 2 !)
+But you can fullfill sentence 1 + sentence 2 for more fun ! it's work !
+And you can increase or decrease the weight for sentence 1 or increase or decrease weight for sentence 2.
 Bye !
 
 Demo here: [https://lostcantina.com/321prompt.php](https://lostcantina.com/321prompt.php)
